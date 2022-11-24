@@ -60,6 +60,7 @@ font-size: 19px;
 .hero2 img {
  margin-left: 32px;
  margin-top: 7px;
+ width: 90%;
 }
 .hero2-title{
     display: flex;
@@ -80,6 +81,9 @@ font-size: 19px;
 }
 .hero3-title p{
 text-align: center;
+}
+.hero3 img{
+width: 90%;
 }
 .block p{
  font-size: 11px;

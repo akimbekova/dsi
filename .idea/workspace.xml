@@ -2,25 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0034d9d6-ed82-4fcc-9efb-c36afe19c6d0" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dsi.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/media.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/DSI (Copy)pana.zip" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/DSI (Copy)stats.zip" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/DSI.zip" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/User-Icon.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/browser-stats/pana.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/cogwheel 1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/comp.zip" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/description1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/header-logo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/pana.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/pana2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/verified 1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/media.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/media.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -134,6 +116,7 @@
       <workItem from="1667200958221" duration="14000" />
       <workItem from="1669121259595" duration="13735000" />
       <workItem from="1669253508466" duration="3672000" />
+      <workItem from="1669265981340" duration="796000" />
     </task>
     <servers />
   </component>
